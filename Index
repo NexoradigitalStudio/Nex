@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Nexora Digital | Smart Digital Strategies for Brisbane’s Growing Businesses</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: Arial, sans-serif; margin:0; padding:0; background:#f5f7fa; color:#222;}
+    .hero { background: #2563eb; color:#fff; padding: 48px 16px; text-align: center; }
+    .hero h1 { font-size:2.2rem; margin-bottom: 16px;}
+    .hero h2 { font-size:1.3rem; font-weight:400; margin-bottom: 20px;}
+    .btn { display:inline-block; padding:12px 28px; margin:8px; background:#36e2b1; color:#fff; border-radius:6px; font-weight:bold; text-decoration:none; }
+    .btn-secondary { background:#fff; color:#2563eb; border:1px solid #2563eb; }
+    .section { max-width:800px; margin:40px auto 0 auto; background:#fff; padding:32px 18px; border-radius:16px; box-shadow:0 2px 12px #0001;}
+    h2 { color:#2563eb; font-size:1.5rem;}
+    .service-grid, .strengths-grid { display: flex; flex-wrap: wrap; gap:18px;}
+    .service-item, .strength-item { background:#f5f7fa; flex:1 1 230px; min-width:220px; border-radius:10px; padding:20px;}
+    ul, .icon-list, .pack-features { text-align:left; margin:18px 0 0 0; padding-left:18px;}
+    blockquote { background:#e3f9f6; border-left:4px solid #36e2b1; padding:10px 18px; border-radius:6px; margin:20px 0;}
+    .pack-local-visibility { background:#e3f9f6; }
+    .guidance { background:#f6f7f8;}
+    .final-cta { text-align:center; margin-top:24px;}
+    @media (max-width:700px) {
+      .service-grid, .strengths-grid { flex-direction:column; }
+      .section { padding:14px 3vw; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- HERO SECTION -->
+<div class="hero">
+  <h1>Smart Digital Strategies for Brisbane’s Growing Businesses</h1>
+  <h2>Get Found. Get Trusted. Grow Faster.</h2>
+  <p>
+    We help Brisbane-based professionals and local service businesses get found, streamline their workflow, and accelerate growth and results with clarity, not complexity.
+  </p>
+  <div>
+    <span>⚡ Powered by <b>ClarityOps™</b> — our signature method that connects your tools, marketing, and admin into one streamlined growth engine.</span>
+  </div>
+  <p style="margin-top:24px;">Take the leap—your next Brisbane success story starts here.</p>
+  <a
